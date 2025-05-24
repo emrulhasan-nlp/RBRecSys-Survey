@@ -1,0 +1,18 @@
+# Review-based Recommender Systems: A Survey of Approaches, Challenges and Future Perspectives
+
+Welcome to the official repository for our comprehensive survey on Review-based Recommender Systems. This work delves into the integration of textual reviews into recommender systems, highlighting methodologies, challenges, and future directions in this evolving domain.
+
+# Overview
+
+Recommender systems are pivotal in guiding users through vast digital content. While traditional systems primarily rely on explicit ratings or implicit interactions, the rich information embedded in user-generated textual reviews offers deeper insights into user preferences and item characteristics. This survey systematically explores the landscape of review-based recommender systems, emphasizing the significance of textual data in enhancing recommendation quality and interpretability.
+
+# Citation
+
+If you find our work useful, please cite it as follows:
+
+@article{hasan2024review,
+title={Review-based Recommender Systems: A Survey of Approaches, Challenges and Future Perspectives},
+author={Hasan, Emrul and Rahman, Mizanur and Ding, Chen and Huang, Jimmy Xiangji and Raza, Shaina},
+journal={arXiv preprint arXiv:2405.05562},
+year={2024}
+}
