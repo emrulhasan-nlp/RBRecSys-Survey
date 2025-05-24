@@ -3,7 +3,7 @@
 
 Welcome to the official repository for our comprehensive survey on **Review-based Recommender Systems**.
 
-📄 **Read the paper**: ["Review-based Recommender Systems" on arXiv] (https://arxiv.org/abs/2405.05562)  
+📄 **Read the paper on arXiv**: [Review-based Recommender Systems](https://arxiv.org/abs/2405.05562)  
 ✅ **Accepted**: [ACM Computing Surveys (CSUR)](https://dl.acm.org/journal/csur)  
 
 This work explores how textual reviews can be effectively integrated into recommender systems. It surveys major methodologies, including deep learning, graph-based, contrastive, and LLM-powered models. We also address practical challenges, emerging trends, and future research directions in this evolving field.
