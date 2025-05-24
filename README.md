@@ -3,12 +3,9 @@
 
 Welcome to the official repository for our comprehensive survey on Review-based Recommender Systems [Paper](https://arxiv.org/abs/2405.05562). This work covers the integration of textual reviews into recommender systems, highlighting methodologies, challenges, and future directions in this evolving domain. If you are aware of a relevant paper related to our work, please feel free to email the paper title and publication details to one of the co-first authors listed below. We would be glad to review it for possible inclusion.
 
-# Overview
-
-Recommender systems are pivotal in guiding users through vast digital content. While traditional systems primarily rely on explicit ratings or implicit interactions, the rich information embedded in user-generated textual reviews offers deeper insights into user preferences and item characteristics. This survey systematically explores the landscape of review-based recommender systems, emphasizing the significance of textual data in enhancing recommendation quality and interpretability. For more detail, paper can be found here [Paper](https://arxiv.org/abs/2405.05562)
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. Introduction  
 2. Background  
@@ -71,10 +68,10 @@ Reviews address key limitations:
 
 ## State-of-the-Art Models
 
-### 5.1 Probabilistic & Topic Models  
+### Probabilistic & Topic Models  
 - **HFT**, **RBLT**, **NGMM**, **TIM**: Use LDA or Gaussian Mixtures to map review topics to latent factors.
 
-### 5.2 Deep Learning  
+### Deep Learning  
 - **CNN Models**: ConvMF, DeepCoNN  
 - **Attention Models**: AARM, A3NCF  
 - **CNN+Attention**: NARRE, D-Attn  
