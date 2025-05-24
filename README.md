@@ -1,24 +1,32 @@
 # Review-based Recommender Systems  
 ## A Survey of Approaches, Challenges and Future Perspectives
 
-Welcome to the official repository for our comprehensive survey on Review-based Recommender Systems [Paper](https://arxiv.org/abs/2405.05562). This work covers the integration of textual reviews into recommender systems, highlighting methodologies, challenges, and future directions in this evolving domain. If you are aware of a relevant paper related to our work, please feel free to email the paper title and publication details to one of the co-first authors listed below. We would be glad to review it for possible inclusion.
+Welcome to the official repository for our comprehensive survey on **Review-based Recommender Systems**.
+
+📄 **Paper**: [arXiv:2405.05562](https://arxiv.org/abs/2405.05562)  
+✅ **Accepted**: [ACM Computing Surveys (CSUR)](https://dl.acm.org/journal/csur)  
+
+This work explores how textual reviews can be effectively integrated into recommender systems. It surveys major methodologies, including deep learning, graph-based, contrastive, and LLM-powered models. We also address practical challenges, emerging trends, and future research directions in this evolving field.
+
+If you are aware of a relevant paper related to our work, please feel free to email the paper title and publication details to one of the co-first authors listed below. We would be glad to review it for possible inclusion in future updates.
 
 ---
 
 ## Table of Contents
 
-1. Introduction  
-2. Background  
-3. Why Incorporate Reviews in RS  
-4. Categories of Review-Based RS  
-5. State-of-the-Art Models  
-6. Miscellaneous Approaches  
-7. Datasets and Evaluation  
-8. Real-world Applications  
-9. Challenges and Open Problems  
-10. Future Directions  
-11. Conclusion    
-12. Citation  
+1. [Introduction](#introduction)  
+2. [Background](#background)  
+3. [Why Incorporate Reviews in RS](#why-incorporate-reviews-in-rs)  
+4. [Categories of Review-Based RS](#categories-of-review-based-rs)  
+5. [State-of-the-Art Models](#state-of-the-art-models)  
+6. [Miscellaneous Approaches](#miscellaneous-approaches)  
+7. [Datasets and Evaluation](#datasets-and-evaluation)  
+8. [Real-world Applications](#real-world-applications)  
+9. [Challenges and Open Problems](#challenges-and-open-problems)  
+10. [Future Directions](#future-directions)  
+11. [Highlighted Papers](#highlighted-papers)    
+12. [citation](#citation)  
+13. [contact](#contact)
 
 ---
 
@@ -135,16 +143,17 @@ Metrics used:
 
 ---
 
-## Conclusion
+## Highlighted Papers
 
-This survey unifies scattered works on review-based recommender systems and introduces a dual classification to structure the field. It evaluates over 110 models across various methodologies and identifies future pathways for robust, fair, and interpretable recommender systems.
-
+- [04/2017] **Neural collaborative filtering** Xiangnan et al.  ACM.* [[paper]](https://dl.acm.org/doi/abs/10.1145/3038912.3052569)
+- [11/2018] **Attentive Aspect Modeling for Review-aware Recommendation** Xinyu et al.  Arxiv.* [[paper]](https://arxiv.org/pdf/1811.04375)
+- 
 ---
 ## Contact
 For queries or collaborations:
 - **Email**: [emrul.phy@gmail.com], [mizanur.york@gmail.com]
 - **Contributions**: Feel free to submit a pull request for updates or suggestions!
-- 
+
 ## Citation
 If you find our work useful, please cite it as follows:
 
