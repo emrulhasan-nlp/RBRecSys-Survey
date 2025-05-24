@@ -12,13 +12,16 @@ Recommender systems are pivotal in guiding users through vast digital content. W
 [2. ]
 [3. ]
 
-# Citation
+### 📌 Citation
 
 If you find our work useful, please cite it as follows:
 
+```bibtex
 @article{hasan2024review,
-title={Review-based Recommender Systems: A Survey of Approaches, Challenges and Future Perspectives},
-author={Hasan, Emrul and Rahman, Mizanur and Ding, Chen and Huang, Jimmy Xiangji and Raza, Shaina},
-journal={arXiv preprint arXiv:2405.05562},
-year={2024}
+  title={Review-based Recommender Systems: A Survey of Approaches, Challenges and Future Perspectives},
+  author={Hasan, Emrul and Rahman, Mizanur and Ding, Chen and Huang, Jimmy Xiangji and Raza, Shaina},
+  journal={arXiv preprint arXiv:2405.05562},
+  year={2024}
 }
+
+```
